@@ -14,7 +14,6 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **react, angular, zoho applications, deluge script**
 
