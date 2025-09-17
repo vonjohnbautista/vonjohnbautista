@@ -10,7 +10,7 @@
 
 <h3 align="center">My Profile</h3>
 <img align="right" alt="Coding" width="400" src="https://devloft.co.uk/images/main.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vjbautista8&label=Profile%20views&color=0e75b6&style=flat" alt="vjbautista8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vonjohnbautista&label=Profile%20views&color=0e75b6&style=flat" alt="vonjohnbautista" /> </p>
 
 
 
@@ -41,9 +41,9 @@
 
 <h3 align="left">🔥 Github Stats : </h3>
 
-<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjbautista8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068">
-  <a href="https://github.com/vjbautista8"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vjbautista8&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/vjbautista8"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vjbautista8&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"  alt="vjbautista8"></a>
+<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vonjohnbautista&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068">
+  <a href="https://github.com/vonjohnbautista"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vonjohnbautista&theme=radical&title_color=ff3068"></a>
+  <a href="https://github.com/vonjohnbautista"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vonjohnbautista&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"  alt="vonjohnbautista"></a>
 
 
 
